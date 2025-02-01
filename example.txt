@@ -1,1 +1,6 @@
-CLeared the content of example txt file in 31 branch
+
+
+This is the modified file in 33 branch
+
+Welcome to First Assignment of Git Repository
+
